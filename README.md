@@ -54,8 +54,8 @@ ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型�
    
    ## 下载戳下面：
 
-- ## 👉 [简体中文版](https://www.icloud.com/shortcuts/42877030fc024fc99a6070b89b3ee2cf)
-- 地址：[https://www.icloud.com/shortcuts/42877030fc024fc99a6070b89b3ee2cf](https://www.icloud.com/shortcuts/42877030fc024fc99a6070b89b3ee2cf)
+- ## 👉 [简体中文版](https://www.icloud.com/shortcuts/dc578e64d5d84f7b8a43e4249d138f91)
+- 地址：[https://www.icloud.com/shortcuts/dc578e64d5d84f7b8a43e4249d138f91](https://www.icloud.com/shortcuts/dc578e64d5d84f7b8a43e4249d138f91)
 
 - ---
 
