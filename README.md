@@ -26,7 +26,6 @@ ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型�
 
 为了方便
 
-- 确保网络能正常访问 https://api.openai.com
 - 确保 API 帐户有足够余额：https://platform.openai.com/account/usage
 - 使用 Siri 启动快捷指令，打开设置-》Siri 回答-》自动。钩上“始终显示你对Siri说的话”，可以看到自己说的话，方便查看识别是否精准。确保发送给ChatGPT的问题是你想问的。
 - 想要练习纯英文口语对话，请使用国内定制版，且把Siri语言设置为English，Siri的识别更精准，对话更流畅。
