@@ -10,15 +10,15 @@ ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型�
 
 |编号|名称|是否需要API_Key|是否需要魔法|是否收费|
 |--|--|--|--|--|
-|1|ChatGPT Siri 官方版|需要|需要|否|
+|1|[ChatGPT Siri 官方版](./README_openai.md)|需要|需要|否|
 |2|[ChatGPT Siri 国内版](./README.md)|需要|不需要|否|
 |3|[ChatGPT Siri 定制版](./README_custom.md)|不需要|不需要|是|
 
 <br/>
 
-## 不需要魔法 - [ChatGPT Siri 国内版](./README.md)
+##  [ChatGPT Siri 定制版](./README_custom.md) - 不需要APIKey，不需要魔法 
 
-## 不需要APIKey，不许魔法 - [ChatGPT Siri 定制版](./README_custom.md)
+## [ChatGPT Siri 国内版](./README.md) - 需要APIKey，不需要魔法
 
 <br/>
 
@@ -57,8 +57,9 @@ ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型�
 
 - ## 👉 [简体中文版](https://www.icloud.com/shortcuts/42877030fc024fc99a6070b89b3ee2cf)
 - 地址：[https://www.icloud.com/shortcuts/42877030fc024fc99a6070b89b3ee2cf](https://www.icloud.com/shortcuts/42877030fc024fc99a6070b89b3ee2cf)
+
 - ---
-  
+
   ## GPT4.0支持
 
 > gpt-4只支持有gpt-4资格的APIKey使用，申请GPT-4接口，到官网申请，申请时需要加入waitlist，加入后会收到确认加入waitlist邮件。然后需要等待邀请你使用 gpt-4 api 的确认邮件，拿到资格后，在 playground 后台可以看到，能选择 gpt-4模型进行测试。没有 gpt-4 资格请选择使用 gpt-3.5-turbo 模型。
