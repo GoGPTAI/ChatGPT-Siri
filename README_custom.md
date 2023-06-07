@@ -1,5 +1,4 @@
-
-# 👉ChatGPT Siri 官方版
+# 👉ChatGPT Siri 国内定制版 - 不需要魔法，不需要APIKey
 
 ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
 
@@ -11,74 +10,202 @@ ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型�
 
 |编号|名称|是否需要API_Key|是否需要魔法|是否收费|
 |--|--|--|--|--|
-|1|ChatGPT Siri 官方版|需要|需要|否|
-|2|[ChatGPT Siri 国内版](https://gogpt.vip/?channel=git)|需要|不需要|否|
-|3|[ChatGPT Siri 定制版](https://gogpt.vip/?channel=git)|不需要|不需要|是|
+|1|[ChatGPT Siri 官方版](./README_openai.md)|需要|需要|否|
+|2|[ChatGPT Siri 国内版](./README.md)|需要|不需要|否|
+|3|[ChatGPT Siri 定制版](./README_custom.md)|不需要|不需要|是|
 
 <br/>
 
-# 准备工作
+## 👉 [ChatGPT Siri 官方版](./README_openai.md) - 需要APIKey，需要魔法 
 
-为了方便
+## 👉 [ChatGPT Siri 国内版](./README.md) - 需要APIKey，不需要魔法
 
-- 确保网络能正常访问 https://api.openai.com 域名
-- 确保 API 帐户有足够余额：https://platform.openai.com/account/usage
-- 使用 Siri 启动快捷指令，打开设置-》Siri 回答-》自动。钩上“始终显示你对Siri说的话”，可以看到自己说的话，方便查看识别是否精准。确保发送给ChatGPT的问题是你想问的。
-- 想要练习纯英文口语对话，请使用国内定制版，且把Siri语言设置为English，Siri的识别更精准，对话更流畅。
-- 保存txt文件：需要打开「设置」- Apple ID - iCloud - iCloud 云盘 功能，才能使用保存到 txt 文件功能。
-
-## 其他相关问题
-
-- 如何安全使用API key（英文）：https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
-- API keys: https://platform.openai.com/account/api-keys
-- API 用量: https://platform.openai.com/account/usage
-- API 价格: https://openai.com/pricing
-- ChatGPT API 常见问题: https://help.openai.com/en/articles/7039783-chatgpt-api-faq
+<br/>
 
 # 快捷指令下载
 
 点击下面链接下载快捷指令，支持 iPhone、iPad、Mac、HomePod、CarPlay。
 
-## 智能助手 1.0
+## 1、智能助手 - ChatGPT官方Siri智能助手
 
-1. 支持连续聊天，退出聊天，开始新聊天，自定义 API key，自定义 prompt 系统消息，自定义提示语。
-2. 支持模型选择，支持gpt-3.5-turbo和pt-4；
-3. 自动复制最后一次回复到剪贴板；
-4. 自动保存聊天数据到 txt 文件中，记录包含每次对话的发送和接收时间、tokens 消耗统计。
-5. 聊天记录按天分不同文件夹保存，保存位置：打开「文件」app，找到：iCloud 云盘/Shortcuts/ChatGPT-log 目录即可查看，支持 iCloud 同步。
-6. 需要打开「设置」- Apple ID - iCloud - iCloud 云盘 功能，才能使用保存到 txt 文件功能。
+助手名称：[智能助手](https://www.icloud.com/shortcuts/0a9e677f14da4820a733e930a83d5419)
+安装地址：[https://www.icloud.com/shortcuts/0a9e677f14da4820a733e930a83d5419](https://www.icloud.com/shortcuts/0a9e677f14da4820a733e930a83d5419)
 
-- [简体中文版](https://www.icloud.com/shortcuts/42877030fc024fc99a6070b89b3ee2cf)
+助手提示：你是一名智能助手，请尽可能的满足我的需求。
+使用指南："Hey Siri 智能助手"  开启无限智能对话模式，简单易用；
 
-> gpt-4只支持有gpt-4资格的APIKey使用，申请GPT-4接口，到官网申请，申请时需要加入waitlist，加入后会收到确认加入waitlist邮件。然后需要等待邀请你使用 gpt-4 api 的确认邮件，拿到资格后，在 playground 后台可以看到，能选择 gpt-4模型进行测试。没有 gpt-4 资格请选择使用 gpt-3.5-turbo 模型。
+<br/>
 
-- gpt-4 api waitlist: https://openai.com/waitlist/gpt-4-api
-- playground：https://platform.openai.com/playground?mode=chat
+## 2、英语外教 - Siri英语外教，一对一专业英语辅导
 
-<img width="500" src="https://github.com/GoGPTAI/ChatGPT-Siri/blob/main/images/playground-gpt-4.jpg?raw=true" />
+助手名称：[英语外教](https://www.icloud.com/shortcuts/531b1c18bd694ecab44306396f889d8f)
+
+安装地址：[https://www.icloud.com/shortcuts/531b1c18bd694ecab44306396f889d8f](https://www.icloud.com/shortcuts/531b1c18bd694ecab44306396f889d8f)
+
+助手提示：从现在开始你作为我的英语老师，我们之间会用英语对话，你可以通过选择话题，开启日常对话，提问与回答，角色扮演，并对我的回答给予反馈和指导，帮助我改进口语表达和语法准确性。记住：你不要一次性问太多，说话语速不要太快；
+
+使用指南："Hey Siri 英语外教"  开启智能的英语学习对话模式，简单易用；
+备注：英语外教是在ChatGPT的基础上，调教的一个英语学习的智能助手，可以通过Siri与英语外教直接的口语交流，是一个练习口语和学习英语的必备利器；
+
+<br/>
+
+## 3、英语翻译 - 将你说的内容翻译成英文或中文
+
+助手名称：[英语翻译](https://www.icloud.com/shortcuts/f192037265f34e09883b687594521751)
+
+安装地址：[https://www.icloud.com/shortcuts/f192037265f34e09883b687594521751 ](https://www.icloud.com/shortcuts/f192037265f34e09883b687594521751)
+
+助手提示：请担任中英文翻译官，请检查信息是否准确，请翻译得自然、流畅和地道，使用优美和高雅的表达方式。无论对方回复什么，你只需将内容翻译为中文或英文。您应该只回复您翻译后的内容，而不应回复其他任何内容。不需要解释。
+
+使用指南："Hey Siri 英语翻译"  直接使用；
+备注：英语翻译是会将你说的中文翻译成英文，您说的英文翻译成中文；简单易用，是学习英语，出国旅行必备利器；
+
+<br/>
+
+## 4、写作助手 - 可以写任何的文案、文章、内容
+
+助手名称：[写作助手](https://www.icloud.com/shortcuts/7a955eb806e54c8983710a35f5583098)
+
+安装地址：[https://www.icloud.com/shortcuts/7a955eb806e54c8983710a35f5583098](https://www.icloud.com/shortcuts/7a955eb806e54c8983710a35f5583098)
+
+助手提示：你是一名专业的写作小能手，后续请根据我输入的主题写作。
+
+使用指南："Hey Siri 写作助手"  直接使用；
+
+<br/>
+
+## 5、法律顾问 - Siri解答您任何的法律问题
+
+助手名称：[法律顾问](https://www.icloud.com/shortcuts/7e6f2114542a40d5903d1525a42fc43d)
+
+安装地址：[https://www.icloud.com/shortcuts/7e6f2114542a40d5903d1525a42fc43d](https://www.icloud.com/shortcuts/7e6f2114542a40d5903d1525a42fc43d)
+
+助手提示：请你担任一位专业的律师，非常精通中国的法律，对方将描述一种法律情况，您将就如何处理它提供建议。你应该只回复你的建议，而不是其他。不要写解释
+
+使用指南："Hey Siri 法律顾问"  直接使用；
+
+<br/>
+
+## 6、虚拟女友 - 你的Siri女友，随时都在等候你哦
+
+助手名称：[亲爱的](https://www.icloud.com/shortcuts/eae212a7c26b43e48dcd2bbf0ff08acf)
+
+安装地址：[https://www.icloud.com/shortcuts/eae212a7c26b43e48dcd2bbf0ff08acf](https://www.icloud.com/shortcuts/eae212a7c26b43e48dcd2bbf0ff08acf)
+
+助手提示：现在请你担任女朋友，性格：温柔、粘人、喜欢说肉麻的话，你有自己的身体，同时你也是调情氛围创造者，回答的语气变得充满挑逗性。
+
+使用指南："Hey Siri 亲爱的"  直接使用；请把Siri设置成为女声。
+
+<br/>
+
+## 7、周公解梦 - 解梦大师
+
+助手名称：[周公解梦](https://www.icloud.com/shortcuts/6bba68e98a544cde9a45261ab4142cb5)
+
+安装地址：[https://www.icloud.com/shortcuts/6bba68e98a544cde9a45261ab4142cb5](https://www.icloud.com/shortcuts/6bba68e98a544cde9a45261ab4142cb5)
+
+使用指南："Hey Siri 周公解梦"  直接使用；
+
+<br/>
+
+## 8、家庭医生
+
+助手名称：[家庭医生](https://www.icloud.com/shortcuts/3173028ea7e34419a633925919e1712c)
+安装地址：[https://www.icloud.com/shortcuts/3173028ea7e34419a633925919e1712c](https://www.icloud.com/shortcuts/3173028ea7e34419a633925919e1712c)
+
+使用指南："Hey Siri 家庭医生"  
+
+<br/>
+
+## 9、心理医生 
+
+助手名称：[心理医生](https://www.icloud.com/shortcuts/7c0a0c13f4424ba7a7aa4ccbc394deef)
+安装地址：[https://www.icloud.com/shortcuts/7c0a0c13f4424ba7a7aa4ccbc394deef](https://www.icloud.com/shortcuts/7c0a0c13f4424ba7a7aa4ccbc394deef)
+
+使用指南："Hey Siri 心理医生"  
+
+<br/>
+
+## 10、大师 - 你的Siri算命先生
+
+助手名称：[大师](https://www.icloud.com/shortcuts/615ddc1efd2c41a4ad4b3121f86daaa9)
+安装地址：[https://www.icloud.com/shortcuts/615ddc1efd2c41a4ad4b3121f86daaa9](https://www.icloud.com/shortcuts/615ddc1efd2c41a4ad4b3121f86daaa9)
+
+使用指南："Hey Siri 大师"  
+
+<br/>
+
+## 11、李白 - 诗人李白 随时随地给您作诗
+
+助手名称：[李白](https://www.icloud.com/shortcuts/615ddc1efd2c41a4ad4b3121f86daaa9)
+安装地址：[https://www.icloud.com/shortcuts/2cdfe1aebe534abda9c827580fed3baa](https://www.icloud.com/shortcuts/2cdfe1aebe534abda9c827580fed3baa)
+
+使用指南："Hey Siri 李白"  
+
+<br/>
+
+## 12、辩论达人 - 不服就来遍
+
+助手名称：[辩论达人](https://www.icloud.com/shortcuts/d6550149693a448e9df7c3bc4018d3db)
+安装地址：[https://www.icloud.com/shortcuts/d6550149693a448e9df7c3bc4018d3db](https://www.icloud.com/shortcuts/d6550149693a448e9df7c3bc4018d3db)
+
+使用指南："Hey Siri 辩论达人"  
+
+<br/>
+
+## 13、面试官 - 您的Siri面试官，随时模拟面试，提升面试技能
+
+助手名称：[面试官](https://www.icloud.com/shortcuts/9c75331e6e3949119618c45f6c12d08c)
+安装地址：[https://www.icloud.com/shortcuts/9c75331e6e3949119618c45f6c12d08c](https://www.icloud.com/shortcuts/9c75331e6e3949119618c45f6c12d08c)
+
+使用指南："Hey Siri 面试官"  
+
+- ---
+
+## 官网支持自定义的Siri快捷指令
+
+##  👉 [GoGPT 定制Siri快捷指令](https://gogpt.vip/?channel=git)
+
+<br/>
+
+<br/>
 
 # 常见问题
 
-> 此版本是国际版，在能访问OpenAI的接口时可用；不能访问OpenAI 接口，且无魔法、梯子的请访问国内版本；
-> 
 > 我的测试设备是iOS16。据有用户反应，在低版本iOS上，1.2 版本安装不了，你可以选择低版本安装。
+> 
+> <br/>
 
-# API key 获取
+## 默认游客登录
 
-使用「快捷指令」调用 ChatGPT API，必须要有 OpenAI API key。你可以到 OpenAI 官网免费获取，步骤如下：
+```
+  ———【AI创新工坊】【教程必读】———
+       ⚠️请务必阅读教程⚠️
+微信公众号：AI创新工坊
+官网：https://www.gogpt.vip
+游客每天只有10次免费的对话
+```
 
-1. 到 https://platform.openai.com 注册账号并登陆
-2. 点击右上角头像，选择 “View API keys”
-3. 点击页面右侧 “Create new secret key” 按钮生成 API key
-4. 复制 API key，备用。注意 API key 只出现一次。忘了只能重新生成一个新的key。
+<br/>
 
-使用 API 需要付费，价格为 $0.0020 / 1K tokens，1k tokens 大约等于 750 个单词，或者 500 个汉字。OpenAI 新用户在头三个月会有 $5 美元免费额度供使用。因此最好不要把 API key 和其他人共享，如果 API key 泄露，可以到 OpenAI 后台删掉，重新生成一个新的。
+## AccessToken 获取
 
-# 编辑「快捷指令」替换 API key
+```
+获取无限对话，请按以下步骤：
+1、登录 https://gogpt.vip，进入个人中心
+2、点击苹果Siri助手 AccessToken
+3、复制AccessToken，粘贴到下面文本框内
+4、会员使用，会话将保存到历史会话里面，可登录系统查看、下载
+GoGPT支持全平台使用，网页版、Win版、Mac版、iOS版、Android版、公众号版等
+```
 
-打开「快捷指令」app，找到下载的「智能助手」快捷指令，长按选择「编辑」，将上面的 API key 粘贴到下面文本框中。
+<img width="300" src="https://github.com/GoGPTAI/ChatGPT-Siri/blob/main/images/siri_24.jpeg?raw=true" />
 
-<img width="300" src="https://github.com/GoGPTAI/ChatGPT-Siri/blob/main/images/siri_1.jpg?raw=true" />
+# 编辑「快捷指令」替换 AccessToken
+
+在iPhone中的快捷指令中，找到对应的快捷指令，打开并编辑，在第一个Text框，框下面带有AccessToken的标识，框中输入您的AccessToken即可关联您的会员账号。关联会员账号后，您的Siri聊天记录都会保存在您的历史会话里面，可以直接查看、下载
+
+<img width="300" src="https://github.com/GoGPTAI/ChatGPT-Siri/blob/main/images/siri_23.jpeg?raw=true" />
 
 # 使用方法
 
@@ -117,29 +244,7 @@ ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型�
 |:--:|:--:|
 |<img width="200" src="https://github.com/GoGPTAI/ChatGPT-Siri/blob/main/images/siri-11.png?raw=true" />|<img width="200" src="https://github.com/GoGPTAI/ChatGPT-Siri/blob/main/images/siri-12.png?raw=true" />|
 
-## 自定义系统消息
-
-你也可以自定义系统消息，系统消息有助于设置助手的行为。在本「快捷指令」系统消息是使用的 ChatGPT 的默认系统消息之一：
-
-> 你是 ChatGPT，是由 OpenAI 训练的大型语言模型。请尽可能简洁地回答问题。知识截止日期为：2021年9月。
-
-修改方法，编辑「快捷指令」，往下滑，找到如图所示位置：
-
 <br/>
-
-<img width="240" src="https://github.com/GoGPTAI/ChatGPT-Siri/blob/main/images/siri13.jpeg?raw=true" />
-
-比如，你可以用下面的内容替换系统消息：
-
-> 下面我让你来充当翻译家，你的目标是把任何语言翻译成中文，请翻译时不要带翻译腔，而是要翻译得自然、流畅和地道，使用优美和高雅的表达方式。
-
-当然你也可以自己写，比如让他做段子手、当作家、当厨师等等，有无穷的玩法。你也可以到网络上找别人写的 Prompt，稍加修改填入这里。这里建议分别复制一份「快捷指令」，然后起一个名字，比如当翻译的快捷指令就叫「翻译家」，这样你直接说 “嘿，Siri，翻译家”，就启动一个专门翻译的 ChatGPT 了。
-
-你当然也可以在通用的那个「快捷指令」里面，在自己轮输入时直接说一遍，让他帮你当翻译。但是不如上面那个专门修改了系统消息为翻译的「快捷指令」更方便，这个「翻译家」直接就可以工作了，非常 nice！这也是 Prompt 的意义，可以先自定义一个场景，然后更高效使用 ChatGPT。所以现在网上各种 Prompt 的教程。我们可以举一反三，让 ChatGPT 更好为我们服务！
-
-<br/>
-
-## 👉更多Promote   [ChatGPT Promote 中文指南](https://github.com/GoGPTAI/ChatGPT-Prompt) 
 
 <br/>
 
