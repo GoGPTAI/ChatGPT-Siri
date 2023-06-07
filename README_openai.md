@@ -1,4 +1,3 @@
-
 # 👉ChatGPT Siri 官方版
 
 ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
@@ -14,6 +13,12 @@ ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型�
 |1|ChatGPT Siri 官方版|需要|需要|否|
 |2|[ChatGPT Siri 国内版](./README.md)|需要|不需要|否|
 |3|[ChatGPT Siri 定制版](./README_custom.md)|不需要|不需要|是|
+
+<br/>
+
+## 不需要魔法 - [ChatGPT Siri 国内版](./README.md)
+
+## 不需要APIKey，不许魔法 - [ChatGPT Siri 定制版](./README_custom.md)
 
 <br/>
 
