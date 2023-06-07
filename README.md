@@ -1,4 +1,4 @@
-# 👉ChatGPT Siri 官方版
+# 👉ChatGPT Siri 国内版 - 免魔法，需要APIKey
 
 ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
 
@@ -10,9 +10,15 @@ ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型�
 
 |编号|名称|是否需要API_Key|是否需要魔法|是否收费|
 |--|--|--|--|--|
-|1|ChatGPT Siri 官方版|需要|需要|否|
-|2|[ChatGPT Siri 国内版](https://gogpt.vip/?channel=git)|需要|不需要|否|
-|3|[ChatGPT Siri 定制版](https://gogpt.vip/?channel=git)|不需要|不需要|是|
+|1|[ChatGPT Siri 官方版](./README_openai.md)|需要|需要|否|
+|2|[ChatGPT Siri 国内版](./README.md)|需要|不需要|否|
+|3|[ChatGPT Siri 定制版](./README_custom.md)|不需要|不需要|是|
+
+<br/>
+
+##  [ChatGPT Siri 官方版](./README_openai.md) - 需要魔法 - 需要APIKey
+
+## [ChatGPT Siri 定制版](./README_custom.md) - 不需要APIKey，不许魔法
 
 <br/>
 
@@ -20,7 +26,7 @@ ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型�
 
 为了方便
 
-- 确保网络能正常访问 https://api.openai.com 域名
+- 确保网络能正常访问 https://api.openai.com
 - 确保 API 帐户有足够余额：https://platform.openai.com/account/usage
 - 使用 Siri 启动快捷指令，打开设置-》Siri 回答-》自动。钩上“始终显示你对Siri说的话”，可以看到自己说的话，方便查看识别是否精准。确保发送给ChatGPT的问题是你想问的。
 - 想要练习纯英文口语对话，请使用国内定制版，且把Siri语言设置为English，Siri的识别更精准，对话更流畅。
@@ -38,7 +44,7 @@ ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型�
 
 点击下面链接下载快捷指令，支持 iPhone、iPad、Mac、HomePod、CarPlay。
 
-## 智能助手 1.0
+## 智能助手 2.0
 
 1. 支持连续聊天，退出聊天，开始新聊天，自定义 API key，自定义 prompt 系统消息，自定义提示语。
 2. 支持模型选择，支持gpt-3.5-turbo和pt-4；
@@ -46,8 +52,15 @@ ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型�
 4. 自动保存聊天数据到 txt 文件中，记录包含每次对话的发送和接收时间、tokens 消耗统计。
 5. 聊天记录按天分不同文件夹保存，保存位置：打开「文件」app，找到：iCloud 云盘/Shortcuts/ChatGPT-log 目录即可查看，支持 iCloud 同步。
 6. 需要打开「设置」- Apple ID - iCloud - iCloud 云盘 功能，才能使用保存到 txt 文件功能。
+   
+   ## 下载戳下面：
 
-- [简体中文版](https://www.icloud.com/shortcuts/42877030fc024fc99a6070b89b3ee2cf)
+- ## 👉 [简体中文版](https://www.icloud.com/shortcuts/42877030fc024fc99a6070b89b3ee2cf)
+- 地址：[https://www.icloud.com/shortcuts/42877030fc024fc99a6070b89b3ee2cf](https://www.icloud.com/shortcuts/42877030fc024fc99a6070b89b3ee2cf)
+
+- ---
+
+  ## GPT4.0支持
 
 > gpt-4只支持有gpt-4资格的APIKey使用，申请GPT-4接口，到官网申请，申请时需要加入waitlist，加入后会收到确认加入waitlist邮件。然后需要等待邀请你使用 gpt-4 api 的确认邮件，拿到资格后，在 playground 后台可以看到，能选择 gpt-4模型进行测试。没有 gpt-4 资格请选择使用 gpt-3.5-turbo 模型。
 
