@@ -16,9 +16,9 @@ ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型�
 
 <br/>
 
-##  [ChatGPT Siri 定制版](./README_custom.md) - 不需要APIKey，不需要魔法 
+##  👉[ChatGPT Siri 定制版](./README_custom.md) - 不需要APIKey，不需要魔法 
 
-## [ChatGPT Siri 国内版](./README.md) - 需要APIKey，不需要魔法
+## 👉[ChatGPT Siri 国内版](./README.md) - 需要APIKey，不需要魔法
 
 <br/>
 
