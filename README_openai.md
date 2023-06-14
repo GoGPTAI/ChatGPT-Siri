@@ -174,7 +174,7 @@ ChatGPT中文指南：[ChatGPT-Prompt](https://github.com/GoGPTAI/ChatGPT-Prompt
 
 ## 微信群交流
 
-<img width="400" src="https://imgs.weimei.life/go/jrsq.jpeg" />
+<img width="400" src="https://imgs.weimei.life/go/jrsq_619.jpeg" />
 
 ## 微信公众号: AI创新工坊
 
